@@ -16,5 +16,5 @@
 	- must be able to connect to hidden networks
 	- must support DHCP
 	- must have basic TCP/IP support
-- the device must support Bluetooth LE
-	- must support at least a combined bandwidth of 256Kbps
+- the device should support Bluetooth LE
+	- should support at least a combined bandwidth of 256Kbps
